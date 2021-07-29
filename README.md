@@ -14,5 +14,5 @@
 
 #### Autores:✒️
 - **Alex Christopher Villafuerte Turpo** - _GitHub Account_ - [SAXPADS](https://github.com/SAXPADS)
-- 
+- **Sarco Jacinto Daniel Eduardo** - _GitHub Account_ - [Gogetassj999](https://github.com/Gogetassj999)
 ##GO
