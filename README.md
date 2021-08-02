@@ -31,4 +31,5 @@
 - **Sarco Jacinto Daniel Eduardo** - _GitHub Account_ - [Gogetassj999](https://github.com/Gogetassj999)
 - **Tacusi Larota Jhon Edwin** - _GitHub Account_ - [jhontacusi](https://github.com/jhontacusi)
 - **Milagros Yarahuaman Rojas** - _GitHub Account_ - [prami31](https://github.com/prami31)
+- **Ronaldinho Vega Centeno Olivera** - _GitHub Account_ - [DinhoVCO](https://github.com/DinhoVCO)
 ##GO
