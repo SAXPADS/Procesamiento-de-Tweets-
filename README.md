@@ -42,5 +42,7 @@
 - **Tacusi Larota Jhon Edwin** - _GitHub Account_ - [jhontacusi](https://github.com/jhontacusi)
 - **Milagros Yarahuaman Rojas** - _GitHub Account_ - [prami31](https://github.com/prami31)
 - **Ronaldinho Vega Centeno Olivera** - _GitHub Account_ - [DinhoVCO](https://github.com/DinhoVCO)
-
+- **Gonzalo Gutierrez Daza** - GitHub Account - [gonzalo95050](https://github.com/gonzalo95050)
+- **Luis Augusto Araujo Lechuga** - GitHub Account - [Cucho145U](https://github.com/gonzalo95050)
+ 
 ##GO
