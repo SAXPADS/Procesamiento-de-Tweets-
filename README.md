@@ -6,6 +6,9 @@
 * **3. Construcción del BOW** 
 * **4. Weigthing Schema** 
 * **5. Clustering**
+* **6. LDA**
+* **7. NER**
+* **8. Analizador de Sentimientos**
 
 ## Construido con 🛠️
 
@@ -13,6 +16,13 @@
 * [NLTK](https://www.nltk.org/) -Define StopWords base en español
 * [Scikit-learn](https://scikit-learn.org/stable/) -Aprendizaje automático
 * [Wordcloud](https://pypi.org/project/wordcloud/) -Libreria para hacer nubes de palabras
+* [Twint](https://github.com/twintproject/twint) -Librferia para hacer scraping en twitter
+* [openNLP](https://cran.r-project.org/web/packages/openNLP/openNLP.pdf)-Libreria para hacer el LDA
+* [Cluster](https://cran.r-project.org/web/packages/cluster/cluster.pdf) -Libreira para hacer Clusters
+* [GoogleTranslator](https://pypi.org/project/googletrans/) -Libreria para traducir
+* [RE](https://docs.python.org/3/library/re.html) -Libre de expresiones regulares
+* [TextBlob](https://textblob.readthedocs.io/en/dev/) -Libreria para hacer el analisis de sentimientos
+* [sentimental_analysis](https://pypi.org/project/sentimental/) -Libreria para el analisis de sentimientos
 
 ---
 
